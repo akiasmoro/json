@@ -1,0 +1,1857 @@
+[
+    {
+        "id": "1",
+        "id_desa": "A8B4643B8E909A35E0400B0A9A144153",
+        "nama_desa": "BANDAR AGUNG",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "2",
+        "id_desa": "A8B3BB66A4DC4114E0400B0A9A145277",
+        "nama_desa": "MEKAR JAYA",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "3",
+        "id_desa": "A88CE397D5A3C474E0400B0A9A141490",
+        "nama_desa": "SADAR SRIWIJAYA",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "4",
+        "id_desa": "A88F8450DDF1DD10E0400B0A9A14258F",
+        "nama_desa": "SRI MENANTI",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "5",
+        "id_desa": "A88F851386B46953E0400B0A9A1425D0",
+        "nama_desa": "SRI PENDOWO",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "6",
+        "id_desa": "A88F081CA9C2A805E0400B0A9A1453FA",
+        "nama_desa": "SRIBHAWONO",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "7",
+        "id_desa": "A88FDACD642C3719E0400B0A9A1433CF",
+        "nama_desa": "WARINGIN JAYA",
+        "id_keca": "A82D228114897B67E0400B0A9A147555",
+        "nama_keca": "BANDAR SRIBHAWONO"
+    },
+    {
+        "id": "8",
+        "id_desa": "A83D666F5F5BCE3DE0400B0A9A1467CA",
+        "nama_desa": "ADI WARNO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "9",
+        "id_desa": "A83D59C94A1F052AE0400B0A9A1467CC",
+        "nama_desa": "BALE KENCONO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "10",
+        "id_desa": "A83D7C864C9B36E0E0400B0A9A14751B",
+        "nama_desa": "BALE REJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "11",
+        "id_desa": "A83D7C864C9136E0E0400B0A9A14751B",
+        "nama_desa": "BANAR JOYO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "12",
+        "id_desa": "A83D7C864C9636E0E0400B0A9A14751B",
+        "nama_desa": "BANJAR REJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "13",
+        "id_desa": "A83D7C864C9C36E0E0400B0A9A14751B",
+        "nama_desa": "BATANG HARJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "14",
+        "id_desa": "A83D4CDCF29D7546E0400B0A9A1467C6",
+        "nama_desa": "BUANA SAKTI",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "15",
+        "id_desa": "A83D7C864C9E36E0E0400B0A9A14751B",
+        "nama_desa": "BUMI HARJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "16",
+        "id_desa": "A83D7C864C9F36E0E0400B0A9A14751B",
+        "nama_desa": "BUMI MAS",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "17",
+        "id_desa": "A83D7BAD587A6B8BE0400B0A9A147515",
+        "nama_desa": "NAMPI REJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "18",
+        "id_desa": "A83C9173D35B6F0FE0400B0A9A147519",
+        "nama_desa": "PURWODADI MEKAR",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "19",
+        "id_desa": "A83BFFE1D5EB7E6BE0400B0A9A145BEB",
+        "nama_desa": "REJO AGUNG",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "20",
+        "id_desa": "A83C9173D3556F0FE0400B0A9A147519",
+        "nama_desa": "SELO REJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "21",
+        "id_desa": "A83C9173D3576F0FE0400B0A9A147519",
+        "nama_desa": "SRI BASUKI",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "22",
+        "id_desa": "A83C9173D3596F0FE0400B0A9A147519",
+        "nama_desa": "SUMBER AGUNG",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "23",
+        "id_desa": "A83D7C864C9436E0E0400B0A9A14751B",
+        "nama_desa": "SUMBER REJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "24",
+        "id_desa": "A83D666F5F5ECE3DE0400B0A9A1467CA",
+        "nama_desa": "TELOGO REJO",
+        "id_keca": "A82BA0751664C701E0400B0A9A146729",
+        "nama_keca": "BATANGHARI"
+    },
+    {
+        "id": "25",
+        "id_desa": "A83CBBBAD12A9818E0400B0A9A14026A",
+        "nama_desa": "BUMI JAWA",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "26",
+        "id_desa": "A83CF44F5D7B5389E0400B0A9A140264",
+        "nama_desa": "CEMPAKA NUBAN",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "27",
+        "id_desa": "A83CBBBAD12B9818E0400B0A9A14026A",
+        "nama_desa": "GEDUNG DALEM",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "28",
+        "id_desa": "A83CB857DB400028E0400B0A9A140268",
+        "nama_desa": "GUNUNG TIGA",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "29",
+        "id_desa": "A83CBBBAD1309818E0400B0A9A14026A",
+        "nama_desa": "KEDATON",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "30",
+        "id_desa": "A83CBBBAD1329818E0400B0A9A14026A",
+        "nama_desa": "KEDATON I",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "31",
+        "id_desa": "A83CBBBAD1349818E0400B0A9A14026A",
+        "nama_desa": "KEDATON II",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "32",
+        "id_desa": "1E320DA7B5797401E053021D0B0A1CEE",
+        "nama_desa": "KEDATON III",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "33",
+        "id_desa": "A83C9ED6B2E49177E0400B0A9A147517",
+        "nama_desa": "NEGARA RATU",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "34",
+        "id_desa": "A83C9ED6B2E79177E0400B0A9A147517",
+        "nama_desa": "PURWOSARI",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "35",
+        "id_desa": "A83C9ED6B2E29177E0400B0A9A147517",
+        "nama_desa": "SUKACARI",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "36",
+        "id_desa": "A83CBBBAD12E9818E0400B0A9A14026A",
+        "nama_desa": "SUKARAJA NUBAN",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "37",
+        "id_desa": "A83CBBBAD12C9818E0400B0A9A14026A",
+        "nama_desa": "TRISNO MULYO",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "38",
+        "id_desa": "A83CBBBAD1369818E0400B0A9A14026A",
+        "nama_desa": "TULUNG BALAK",
+        "id_keca": "A82D2BF867DA3FEEE0400B0A9A1404D3",
+        "nama_keca": "BATANGHARI NUBAN"
+    },
+    {
+        "id": "39",
+        "id_desa": "A83CF44F5D875389E0400B0A9A140264",
+        "nama_desa": "BRAJA GEMILANG",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "40",
+        "id_desa": "A87C38279B1B20BEE0400B0A9A1454E1",
+        "nama_desa": "BRAJA HARJOSARI",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "41",
+        "id_desa": "A87C3836447F97E9E0400B0A9A1454DD",
+        "nama_desa": "BRAJA INDAH",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "42",
+        "id_desa": "A87C3836444197E9E0400B0A9A1454DD",
+        "nama_desa": "BRAJA KENCANA",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "43",
+        "id_desa": "A83CF44F5D895389E0400B0A9A140264",
+        "nama_desa": "BRAJA LUHUR",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "44",
+        "id_desa": "A87B8AD8467FE028E0400B0A9A145D33",
+        "nama_desa": "BRAJA MULYA",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "45",
+        "id_desa": "A87B8AD84668E028E0400B0A9A145D33",
+        "nama_desa": "BRAJA YEKTI",
+        "id_keca": "A82D3C88F9EADE64E0400B0A9A1404D1",
+        "nama_keca": "BRAJA SELEBAH"
+    },
+    {
+        "id": "46",
+        "id_desa": "A83E121235CB2B69E0400B0A9A1412CB",
+        "nama_desa": "BUMI TINGGI",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "47",
+        "id_desa": "A83CF44F5D855389E0400B0A9A140264",
+        "nama_desa": "CATUR SWAKO",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "48",
+        "id_desa": "A83E121235D32B69E0400B0A9A1412CB",
+        "nama_desa": "DONOMULYO",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "49",
+        "id_desa": "A83E121235D62B69E0400B0A9A1412CB",
+        "nama_desa": "LEHAN",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "50",
+        "id_desa": "A83E121235D72B69E0400B0A9A1412CB",
+        "nama_desa": "MARGA MULYA",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "51",
+        "id_desa": "C6B9474527EFCD93E0400B0A9A141778",
+        "nama_desa": "MULYO ASRI",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "52",
+        "id_desa": "A83E1E63A063D043E0400B0A9A1412C9",
+        "nama_desa": "NYAMPIR",
+        "id_keca": "A82D3C88F9E4DE64E0400B0A9A1404D1",
+        "nama_keca": "BUMI AGUNG"
+    },
+    {
+        "id": "53",
+        "id_desa": "A87C38279A0D2081E0400B0A9A1454DF",
+        "nama_desa": "NEGERI AGUNG",
+        "id_keca": "A82D49D7A7E6C900E0400B0A9A1404CF",
+        "nama_keca": "GUNUNG PELINDUNG"
+    },
+    {
+        "id": "54",
+        "id_desa": "A87AAD8B9A958E44E0400B0A9A14376B",
+        "nama_desa": "NIBUNG",
+        "id_keca": "A82D49D7A7E6C900E0400B0A9A1404CF",
+        "nama_keca": "GUNUNG PELINDUNG"
+    },
+    {
+        "id": "55",
+        "id_desa": "A87C38279B9120BEE0400B0A9A1454E1",
+        "nama_desa": "PELINDUNG JAYA",
+        "id_keca": "A82D49D7A7E6C900E0400B0A9A1404CF",
+        "nama_keca": "GUNUNG PELINDUNG"
+    },
+    {
+        "id": "56",
+        "id_desa": "A87C38279A192081E0400B0A9A1454DF",
+        "nama_desa": "PEMPEN",
+        "id_keca": "A82D49D7A7E6C900E0400B0A9A1404CF",
+        "nama_keca": "GUNUNG PELINDUNG"
+    },
+    {
+        "id": "57",
+        "id_desa": "A87BB193976F3A56E0400B0A9A146E14",
+        "nama_desa": "WAY MILI",
+        "id_keca": "A82D49D7A7E6C900E0400B0A9A1404CF",
+        "nama_keca": "GUNUNG PELINDUNG"
+    },
+    {
+        "id": "58",
+        "id_desa": "A8532750B9FA66E3E0400B0A9A1411DF",
+        "nama_desa": "ADI LUHUR",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "59",
+        "id_desa": "A8530D1662320742E0400B0A9A140B16",
+        "nama_desa": "ADIREJO",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "60",
+        "id_desa": "A851BA67CD58350BE0400B0A9A147948",
+        "nama_desa": "ASAHAN",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "61",
+        "id_desa": "A852A3CF315BB4F9E0400B0A9A142C39",
+        "nama_desa": "BELIMBING SARI",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "62",
+        "id_desa": "A852A31115DEB3B0E0400B0A9A142C3B",
+        "nama_desa": "BETENG SARI",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "63",
+        "id_desa": "A853504A7F066038E0400B0A9A1411DB",
+        "nama_desa": "GUNUNG MEKAR",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "64",
+        "id_desa": "A8537E5EA8B8BA48E0400B0A9A142408",
+        "nama_desa": "GUNUNG SUGIH KECIL",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "65",
+        "id_desa": "A8537EEB8EE40BFBE0400B0A9A142404",
+        "nama_desa": "JABUNG",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "66",
+        "id_desa": "A8528C0E024C4EE1E0400B0A9A142402",
+        "nama_desa": "MEKAR JAYA",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "67",
+        "id_desa": "A852A1FAEE443D2FE0400B0A9A142400",
+        "nama_desa": "MUMBANG JAYA",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "68",
+        "id_desa": "A8530D18C414666DE0400B0A9A140B1D",
+        "nama_desa": "NEGARA BATIN",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "69",
+        "id_desa": "A852A3CF3115B4F9E0400B0A9A142C39",
+        "nama_desa": "NEGARA SAKA",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "70",
+        "id_desa": "A8537E5EA8CCBA48E0400B0A9A142408",
+        "nama_desa": "PEMATANG TAHALO",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "71",
+        "id_desa": "A851BA67CE43350BE0400B0A9A147948",
+        "nama_desa": "SAMBIREJO",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "72",
+        "id_desa": "A8532750BA1266E3E0400B0A9A1411DF",
+        "nama_desa": "TANJUNG SARI",
+        "id_keca": "A82D2AE067E3D77DE0400B0A9A1404D7",
+        "nama_keca": "JABUNG"
+    },
+    {
+        "id": "73",
+        "id_desa": "A8516199550AB95BE0400B0A9A142D06",
+        "nama_desa": "BANDAR NEGERI",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "74",
+        "id_desa": "A85092B02B8A86F2E0400B0A9A1438B2",
+        "nama_desa": "KARANG ANYAR",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "75",
+        "id_desa": "A8501AAA9D28A077E0400B0A9A1467F7",
+        "nama_desa": "KARYA MAKMUR",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "76",
+        "id_desa": "A85092B02AF186F2E0400B0A9A1438B2",
+        "nama_desa": "KARYATANI",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "77",
+        "id_desa": "A84FC9BCBF42B7C4E0400B0A9A140DF1",
+        "nama_desa": "LABUHAN MARINGGAI",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "78",
+        "id_desa": "A85092B02B4F86F2E0400B0A9A1438B2",
+        "nama_desa": "MARGASARI",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "79",
+        "id_desa": "A850561BE6E30F14E0400B0A9A147483",
+        "nama_desa": "MARINGGAI",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "80",
+        "id_desa": "A84F5AF39D3E4FE1E0400B0A9A143FD4",
+        "nama_desa": "MUARA GADING MAS",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "81",
+        "id_desa": "A84F84B2B01D6149E0400B0A9A147E57",
+        "nama_desa": "SRI GADING",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "82",
+        "id_desa": "A8515847F59C0671E0400B0A9A142D02",
+        "nama_desa": "SRI MINOSARI",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "83",
+        "id_desa": "A850561BE7BE0F14E0400B0A9A147483",
+        "nama_desa": "SUKORAHAYU",
+        "id_keca": "A82BA29FFA447172E0400B0A9A146731",
+        "nama_keca": "LABUHAN MARINGGAI"
+    },
+    {
+        "id": "84",
+        "id_desa": "A83BFFE1D5EC7E6BE0400B0A9A145BEB",
+        "nama_desa": "LABUHAN RATU",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "85",
+        "id_desa": "A83D751CD03E49BEE0400B0A9A1467C8",
+        "nama_desa": "LABUHAN RATU III",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "86",
+        "id_desa": "A83D666F5F62CE3DE0400B0A9A1467CA",
+        "nama_desa": "LABUHAN RATU IV",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "87",
+        "id_desa": "A8B57AA985C58163E0400B0A9A147AF7",
+        "nama_desa": "LABUHAN RATU IX",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "88",
+        "id_desa": "A83D7C864C9036E0E0400B0A9A14751B",
+        "nama_desa": "LABUHAN RATU V",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "89",
+        "id_desa": "A83D7C864C9336E0E0400B0A9A14751B",
+        "nama_desa": "LABUHAN RATU VI",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "90",
+        "id_desa": "A83D7C864C9536E0E0400B0A9A14751B",
+        "nama_desa": "LABUHAN RATU VII",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "91",
+        "id_desa": "A83D7C864C9A36E0E0400B0A9A14751B",
+        "nama_desa": "LABUHAN RATU VIII",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "92",
+        "id_desa": "A83D666F5F5DCE3DE0400B0A9A1467CA",
+        "nama_desa": "RAJABASA LAMA",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "93",
+        "id_desa": "A83D666F5F60CE3DE0400B0A9A1467CA",
+        "nama_desa": "RAJABASA LAMA I",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "94",
+        "id_desa": "A83D666F5F61CE3DE0400B0A9A1467CA",
+        "nama_desa": "RAJABASA LAMA II",
+        "id_keca": "A82D2AEFBC1FE191E0400B0A9A1404D5",
+        "nama_keca": "LABUHAN RATU"
+    },
+    {
+        "id": "95",
+        "id_desa": "A8B528CF7B5819A9E0400B0A9A145EDA",
+        "nama_desa": "BATU BADAK",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "96",
+        "id_desa": "A8B53A7242E7E5B1E0400B0A9A146DA1",
+        "nama_desa": "BUKIT RAYA",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "97",
+        "id_desa": "A8B4643B8EB19A35E0400B0A9A144153",
+        "nama_desa": "BUNGKUK",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "98",
+        "id_desa": "A8B53BBBBE97139EE0400B0A9A146DA3",
+        "nama_desa": "GIRI MULYO",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "99",
+        "id_desa": "A8B5442DF4D1AB42E0400B0A9A146D9F",
+        "nama_desa": "GUNUNG MAS",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "100",
+        "id_desa": "A8B53A1D125DC04BE0400B0A9A146D9B",
+        "nama_desa": "GUNUNG RAYA",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "101",
+        "id_desa": "A8B528CF7B5A19A9E0400B0A9A145EDA",
+        "nama_desa": "PENIANGAN",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "102",
+        "id_desa": "A8B53BBBBEA2139EE0400B0A9A146DA3",
+        "nama_desa": "PURWOSARI",
+        "id_keca": "A82D49D7A7F9C900E0400B0A9A1404CF",
+        "nama_keca": "MARGA SEKAMPUNG"
+    },
+    {
+        "id": "103",
+        "id_desa": "A87A32A15EC0D910E0400B0A9A14647E",
+        "nama_desa": "GEDUNG WANI",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "104",
+        "id_desa": "A87A874CFC49EE1BE0400B0A9A142F87",
+        "nama_desa": "GEDUNG WANI TIMUR",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "105",
+        "id_desa": "A87B0906E5031796E0400B0A9A141405",
+        "nama_desa": "JAYA GUNA",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "106",
+        "id_desa": "A87A92BB9B01DFC9E0400B0A9A142F84",
+        "nama_desa": "NABANG BARU",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "107",
+        "id_desa": "A87A9CE805C44B27E0400B0A9A142F82",
+        "nama_desa": "NEGERI AGUNG",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "108",
+        "id_desa": "A87AAD8765707D64E0400B0A9A143769",
+        "nama_desa": "NEGERI JEMANTEN",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "109",
+        "id_desa": "A87A32A15E36D910E0400B0A9A14647E",
+        "nama_desa": "NEGERI KATON",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "110",
+        "id_desa": "A87B0906E4881796E0400B0A9A141405",
+        "nama_desa": "NEGERI TUA",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "111",
+        "id_desa": "A87A32A15F09D910E0400B0A9A14647E",
+        "nama_desa": "SUKADANA BARU",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "112",
+        "id_desa": "A87A9CE805F64B27E0400B0A9A142F82",
+        "nama_desa": "SUKARAJA TIGA",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "113",
+        "id_desa": "A87A8763CBD77B38E0400B0A9A142F8D",
+        "nama_desa": "SURYA MATARAM",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "114",
+        "id_desa": "A87AAD8765267D64E0400B0A9A143769",
+        "nama_desa": "TANJUNG HARAPAN",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "115",
+        "id_desa": "A87AAD88F8CC1385E0400B0A9A14376D",
+        "nama_desa": "TRISINAR",
+        "id_keca": "A82D2BF867C23FEEE0400B0A9A1404D3",
+        "nama_keca": "MARGATIGA"
+    },
+    {
+        "id": "116",
+        "id_desa": "A87C38279A612081E0400B0A9A1454DF",
+        "nama_desa": "KEBON DAMAR",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "117",
+        "id_desa": "A88CE397D56CC474E0400B0A9A141490",
+        "nama_desa": "MANDALA SARI",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "118",
+        "id_desa": "A87C38279A7E2081E0400B0A9A1454DF",
+        "nama_desa": "MATARAM BARU",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "119",
+        "id_desa": "A88DF2759BA5540EE0400B0A9A144B6C",
+        "nama_desa": "RAJABASA BARU",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "120",
+        "id_desa": "A88DDAC85302DA21E0400B0A9A144B72",
+        "nama_desa": "TELUK DALEM",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "121",
+        "id_desa": "A87BC14D05CA1FB0E0400B0A9A146E16",
+        "nama_desa": "TULUNG PASIK",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "122",
+        "id_desa": "A88DF2759BC7540EE0400B0A9A144B6C",
+        "nama_desa": "WAY ARENG",
+        "id_keca": "A82D2BF867E93FEEE0400B0A9A1404D3",
+        "nama_keca": "MATARAM BARU"
+    },
+    {
+        "id": "123",
+        "id_desa": "A8B3B93FE26E3760E0400B0A9A145271",
+        "nama_desa": "ITIK RENDAY",
+        "id_keca": "A82BA29FFAC87172E0400B0A9A146731",
+        "nama_keca": "MELINTING"
+    },
+    {
+        "id": "124",
+        "id_desa": "A8B3EB90BC29474CE0400B0A9A14526B",
+        "nama_desa": "SIDO MAKMUR",
+        "id_keca": "A82BA29FFAC87172E0400B0A9A146731",
+        "nama_keca": "MELINTING"
+    },
+    {
+        "id": "125",
+        "id_desa": "A8B3B93FE23B3760E0400B0A9A145271",
+        "nama_desa": "SUMBERHADI",
+        "id_keca": "A82BA29FFAC87172E0400B0A9A146731",
+        "nama_keca": "MELINTING"
+    },
+    {
+        "id": "126",
+        "id_desa": "A8B3B93FE2643760E0400B0A9A145271",
+        "nama_desa": "TANJUNG AJI",
+        "id_keca": "A82BA29FFAC87172E0400B0A9A146731",
+        "nama_keca": "MELINTING"
+    },
+    {
+        "id": "127",
+        "id_desa": "A8B3EB90BC24474CE0400B0A9A14526B",
+        "nama_desa": "TEBING",
+        "id_keca": "A82BA29FFAC87172E0400B0A9A146731",
+        "nama_keca": "MELINTING"
+    },
+    {
+        "id": "128",
+        "id_desa": "A8B3B93FE25F3760E0400B0A9A145271",
+        "nama_desa": "WANA",
+        "id_keca": "A82BA29FFAC87172E0400B0A9A146731",
+        "nama_keca": "MELINTING"
+    },
+    {
+        "id": "129",
+        "id_desa": "A878B87467118BD1E0400B0A9A144376",
+        "nama_desa": "JAYA ASRI",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "130",
+        "id_desa": "A854305E8A18049BE0400B0A9A144968",
+        "nama_desa": "KIBANG",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "131",
+        "id_desa": "A854305E89FE049BE0400B0A9A144968",
+        "nama_desa": "MARGA JAYA",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "132",
+        "id_desa": "A879935B118C7C9DE0400B0A9A14788D",
+        "nama_desa": "MARGO SARI",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "133",
+        "id_desa": "A853CFEACB1F6E55E0400B0A9A146B07",
+        "nama_desa": "MARGO TOTO",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "134",
+        "id_desa": "A8537E5EA9F4BA48E0400B0A9A142408",
+        "nama_desa": "PURBO SEMBODO",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "135",
+        "id_desa": "A8546564AF15F5E2E0400B0A9A14495B",
+        "nama_desa": "SUMBER AGUNG",
+        "id_keca": "A82BA29FFA9D7172E0400B0A9A146731",
+        "nama_keca": "METRO KIBANG"
+    },
+    {
+        "id": "136",
+        "id_desa": "A8B5197800814E01E0400B0A9A145EDC",
+        "nama_desa": "KEDUNG RINGIN",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "137",
+        "id_desa": "A8B53A7242DBE5B1E0400B0A9A146DA1",
+        "nama_desa": "LABUHAN RATU",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "138",
+        "id_desa": "A8B53BBBBE98139EE0400B0A9A146DA3",
+        "nama_desa": "MEKAR SARI",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "139",
+        "id_desa": "A8B3F52EA970894EE0400B0A9A145EE0",
+        "nama_desa": "MULYO SARI",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "140",
+        "id_desa": "A8B3B93FE25A3760E0400B0A9A145271",
+        "nama_desa": "PASIR SAKTI",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "141",
+        "id_desa": "A8B3B93FE2663760E0400B0A9A145271",
+        "nama_desa": "PURWOREJO",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "142",
+        "id_desa": "A8B3B93FE2633760E0400B0A9A145271",
+        "nama_desa": "REJO MULYO",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "143",
+        "id_desa": "A8B528CF7B5B19A9E0400B0A9A145EDA",
+        "nama_desa": "SUMUR KUCING",
+        "id_keca": "A82D49D7A7EDC900E0400B0A9A1404CF",
+        "nama_keca": "PASIR SAKTI"
+    },
+    {
+        "id": "144",
+        "id_desa": "C6B7AA4F62006D67E0400B0A9A140BEA",
+        "nama_desa": "ADIJAYA",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "145",
+        "id_desa": "A87B05F25346EB83E0400B0A9A141409",
+        "nama_desa": "ADIREJO",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "146",
+        "id_desa": "A87A32EACA84FDEBE0400B0A9A146480",
+        "nama_desa": "GANTI WARNO",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "147",
+        "id_desa": "C6B94A744D87F562E0400B0A9A141B00",
+        "nama_desa": "GANTIMULYO",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "148",
+        "id_desa": "A87B0906E22B1796E0400B0A9A141405",
+        "nama_desa": "GONDANG REJO",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "149",
+        "id_desa": "A87A7725DEC323C8E0400B0A9A14722B",
+        "nama_desa": "JOJOG",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "150",
+        "id_desa": "A87A9CE805444B27E0400B0A9A142F82",
+        "nama_desa": "KALI BENING",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "151",
+        "id_desa": "A87B05D7C889F104E0400B0A9A141407",
+        "nama_desa": "PEKALONGAN",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "152",
+        "id_desa": "A879935B11C37C9DE0400B0A9A14788D",
+        "nama_desa": "SIDODADI",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "153",
+        "id_desa": "A87B05D7C879F104E0400B0A9A141407",
+        "nama_desa": "SIRAMAN",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "154",
+        "id_desa": "A87B2AD1E65E4F02E0400B0A9A141703",
+        "nama_desa": "TULUS REJO",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "155",
+        "id_desa": "A87A7731DA866B38E0400B0A9A14722D",
+        "nama_desa": "WONOSARI",
+        "id_keca": "A82D2AE067EED77DE0400B0A9A1404D7",
+        "nama_keca": "PEKALONGAN"
+    },
+    {
+        "id": "156",
+        "id_desa": "A83C9ED6B2DC9177E0400B0A9A147517",
+        "nama_desa": "TAMAN ASRI",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "157",
+        "id_desa": "A83C9ED6B2DE9177E0400B0A9A147517",
+        "nama_desa": "TAMAN BOGO",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "158",
+        "id_desa": "A83C9ED6B2E19177E0400B0A9A147517",
+        "nama_desa": "TAMAN CARI",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "159",
+        "id_desa": "A83D7BAD587E6B8BE0400B0A9A147515",
+        "nama_desa": "TAMAN ENDAH",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "160",
+        "id_desa": "A83D7BAD587B6B8BE0400B0A9A147515",
+        "nama_desa": "TAMAN FAJAR",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "161",
+        "id_desa": "A83D666F5F64CE3DE0400B0A9A1467CA",
+        "nama_desa": "TAMBAH DADI",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "162",
+        "id_desa": "A83CBBBAD1319818E0400B0A9A14026A",
+        "nama_desa": "TAMBAH LUHUR",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "163",
+        "id_desa": "A83CBBBAD12D9818E0400B0A9A14026A",
+        "nama_desa": "TANJUNG INTEN",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "164",
+        "id_desa": "A83CBBBAD1359818E0400B0A9A14026A",
+        "nama_desa": "TANJUNG KESUMA",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "165",
+        "id_desa": "A83CB857DB3C0028E0400B0A9A140268",
+        "nama_desa": "TEGAL GONDO",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "166",
+        "id_desa": "A83CBBBAD12F9818E0400B0A9A14026A",
+        "nama_desa": "TEGAL YOSO",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "167",
+        "id_desa": "A83CBE0D13E9E8ECE0400B0A9A14026C",
+        "nama_desa": "TOTO HARJO",
+        "id_keca": "A82C62882860EA1CE0400B0A9A145AB9",
+        "nama_keca": "PURBOLINGGO"
+    },
+    {
+        "id": "168",
+        "id_desa": "A83DC86BAC5DF38EE0400B0A9A143BED",
+        "nama_desa": "KOTA RAMAN",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "169",
+        "id_desa": "A83DC86BAC78F38EE0400B0A9A143BED",
+        "nama_desa": "RAMA PUJA",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "170",
+        "id_desa": "A83DC86BAC59F38EE0400B0A9A143BED",
+        "nama_desa": "RAMAN AJI",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "171",
+        "id_desa": "A83DC86BAC65F38EE0400B0A9A143BED",
+        "nama_desa": "RAMAN ENDRA",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "172",
+        "id_desa": "A83DE303937D7DE6E0400B0A9A143BE7",
+        "nama_desa": "RAMAN FAJAR",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "173",
+        "id_desa": "A83DC86BAC63F38EE0400B0A9A143BED",
+        "nama_desa": "RANTAU FAJAR",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "174",
+        "id_desa": "A83DC86BAC5CF38EE0400B0A9A143BED",
+        "nama_desa": "RATNA DAYA",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "175",
+        "id_desa": "A83DC86BAC61F38EE0400B0A9A143BED",
+        "nama_desa": "REJO BINANGUN",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "176",
+        "id_desa": "A83DC86BAC68F38EE0400B0A9A143BED",
+        "nama_desa": "REJO KATON",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "177",
+        "id_desa": "A83DE30393817DE6E0400B0A9A143BE7",
+        "nama_desa": "RESTU RAHAYU",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "178",
+        "id_desa": "A83D9E13B8DCBE02E0400B0A9A142F23",
+        "nama_desa": "RUKTI SEDIYO",
+        "id_keca": "A82BA29FFA407172E0400B0A9A146731",
+        "nama_keca": "RAMAN UTARA"
+    },
+    {
+        "id": "179",
+        "id_desa": "A83C9ED6B2E69177E0400B0A9A147517",
+        "nama_desa": "GIRIKARTO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "180",
+        "id_desa": "A83E1E63A062D043E0400B0A9A1412C9",
+        "nama_desa": "GIRIKELOPO MULYO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "181",
+        "id_desa": "A83E013045205E77E0400B0A9A1412C7",
+        "nama_desa": "HARGOMULYO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "182",
+        "id_desa": "A83D9E13B8D3BE02E0400B0A9A142F23",
+        "nama_desa": "JADI MULYO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "183",
+        "id_desa": "A83CF44F5D885389E0400B0A9A140264",
+        "nama_desa": "KARYA MUKTI",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "184",
+        "id_desa": "A83D9E13B8D9BE02E0400B0A9A142F23",
+        "nama_desa": "MEKAR MUKTI",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "185",
+        "id_desa": "A83E0130452C5E77E0400B0A9A1412C7",
+        "nama_desa": "MEKAR MULYO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "186",
+        "id_desa": "A83D9E13B8D1BE02E0400B0A9A142F23",
+        "nama_desa": "MEKAR SARI",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "187",
+        "id_desa": "A83CF44F5D815389E0400B0A9A140264",
+        "nama_desa": "SAMBIKARTO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "188",
+        "id_desa": "A83E121235D42B69E0400B0A9A1412CB",
+        "nama_desa": "SIDODADI",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "189",
+        "id_desa": "A83D7BAD58826B8BE0400B0A9A147515",
+        "nama_desa": "SIDOMUKTI",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "190",
+        "id_desa": "A83D7BAD59AE6B8BE0400B0A9A147515",
+        "nama_desa": "SIDOMULYO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "191",
+        "id_desa": "A850561BE4C10F14E0400B0A9A147483",
+        "nama_desa": "SUKOHARJO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "192",
+        "id_desa": "A83E121235D52B69E0400B0A9A1412CB",
+        "nama_desa": "SUMBERGEDE",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "193",
+        "id_desa": "A83CF44F5D865389E0400B0A9A140264",
+        "nama_desa": "SUMBERSARI",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "194",
+        "id_desa": "A83D7BAD5ADB6B8BE0400B0A9A147515",
+        "nama_desa": "TRIMULYO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "195",
+        "id_desa": "A83E04A66752BF97E0400B0A9A1412D2",
+        "nama_desa": "WONOKARTO",
+        "id_keca": "A82C62882871EA1CE0400B0A9A145AB9",
+        "nama_keca": "SEKAMPUNG"
+    },
+    {
+        "id": "196",
+        "id_desa": "A87AAD8B98D98E44E0400B0A9A14376B",
+        "nama_desa": "BANJAR AGUNG",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "197",
+        "id_desa": "A87AAD8B99338E44E0400B0A9A14376B",
+        "nama_desa": "BAUH GUNUNG SARI",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "198",
+        "id_desa": "A87C148263DFA037E0400B0A9A14448C",
+        "nama_desa": "BOJONG",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "199",
+        "id_desa": "A87B05F25A33EB83E0400B0A9A141409",
+        "nama_desa": "BRAWIJAYA",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "200",
+        "id_desa": "A87C38279AC620BEE0400B0A9A1454E1",
+        "nama_desa": "BUMI MULYO",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "201",
+        "id_desa": "A87AAD8B992A8E44E0400B0A9A14376B",
+        "nama_desa": "GUNUNG AGUNG",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "202",
+        "id_desa": "A87AAD8B99768E44E0400B0A9A14376B",
+        "nama_desa": "GUNUNG MULYO",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "203",
+        "id_desa": "A87C6481F342FA50E0400B0A9A145D39",
+        "nama_desa": "GUNUNG PASIR JAYA",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "204",
+        "id_desa": "A87B8AD84524E028E0400B0A9A145D33",
+        "nama_desa": "GUNUNG SUGIH BESAR",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "205",
+        "id_desa": "A87B0906E5951796E0400B0A9A141405",
+        "nama_desa": "MENGANDUNG SARI",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "206",
+        "id_desa": "A87A8763CC7B7B38E0400B0A9A142F8D",
+        "nama_desa": "PUGUNG RAHARJO",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "207",
+        "id_desa": "A87C383643F597E9E0400B0A9A1454DD",
+        "nama_desa": "PURWOKENCONO",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "208",
+        "id_desa": "A87B8AD8453AE028E0400B0A9A145D33",
+        "nama_desa": "SIDOREJO",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "209",
+        "id_desa": "A87C14826429A037E0400B0A9A14448C",
+        "nama_desa": "SINDANG ANOM",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "210",
+        "id_desa": "A87B14BC51ACA552E0400B0A9A1416FF",
+        "nama_desa": "TOBA",
+        "id_keca": "A82D2AEFBC1AE191E0400B0A9A1404D5",
+        "nama_keca": "SEKAMPUNG UDIK"
+    },
+    {
+        "id": "211",
+        "id_desa": "A853504A7EB76038E0400B0A9A1411DB",
+        "nama_desa": "BUMI AYU",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "212",
+        "id_desa": "A850802A6FC7DE11E0400B0A9A142CFE",
+        "nama_desa": "BUMI NABUNG UDIK",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "213",
+        "id_desa": "A84F5AF39F404FE1E0400B0A9A143FD4",
+        "nama_desa": "MATARAM MARGA",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "214",
+        "id_desa": "A850DEF9297DB363E0400B0A9A144893",
+        "nama_desa": "MUARA JAYA",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "215",
+        "id_desa": "A8501AAA9EC1A077E0400B0A9A1467F7",
+        "nama_desa": "NEGARA NABUNG",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "216",
+        "id_desa": "A850E0AA74088F13E0400B0A9A144891",
+        "nama_desa": "PAKUAN AJI",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "217",
+        "id_desa": "A850DEF928FFB363E0400B0A9A144893",
+        "nama_desa": "PASAR SUKADANA",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "218",
+        "id_desa": "A8528C0E015F4EE1E0400B0A9A142402",
+        "nama_desa": "PUTRA AJI I",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "219",
+        "id_desa": "A85334DB6D4C6B3EE0400B0A9A1411E3",
+        "nama_desa": "PUTRA AJI II",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "220",
+        "id_desa": "A8509167F59F4C76E0400B0A9A1438B6",
+        "nama_desa": "RAJA BASA BATANGHARI",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "221",
+        "id_desa": "A85092B02C0286F2E0400B0A9A1438B2",
+        "nama_desa": "RANTAU JAYA UDIK",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "222",
+        "id_desa": "A85334DB6D456B3EE0400B0A9A1411E3",
+        "nama_desa": "RANTAU JAYA UDIK II",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "223",
+        "id_desa": "A850DEF92911B363E0400B0A9A144893",
+        "nama_desa": "SUKADANA",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "224",
+        "id_desa": "A8537EEB8E290BFBE0400B0A9A142404",
+        "nama_desa": "SUKADANA ILIR",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "225",
+        "id_desa": "C6B939A5BEDC7F5BE0400B0A9A140CCE",
+        "nama_desa": "SUKADANA JAYA",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "226",
+        "id_desa": "C6B94AC5032468A1E0400B0A9A14195C",
+        "nama_desa": "SUKADANA SELATAN",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "227",
+        "id_desa": "C6B94A6EF48BEC70E0400B0A9A141B04",
+        "nama_desa": "SUKADANA TENGAH",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "228",
+        "id_desa": "A8532750B8DC66E3E0400B0A9A1411DF",
+        "nama_desa": "SUKADANA TIMUR",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "229",
+        "id_desa": "A850CBF2D9108C09E0400B0A9A1438AE",
+        "nama_desa": "SURABAYA UDIK",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "230",
+        "id_desa": "A84F84B2B0906149E0400B0A9A147E57",
+        "nama_desa": "TERBANGGI MARGA",
+        "id_keca": "A82D2AE067D7D77DE0400B0A9A1404D7",
+        "nama_keca": "SUKADANA"
+    },
+    {
+        "id": "231",
+        "id_desa": "A8B2F85F36A2980EE0400B0A9A142B17",
+        "nama_desa": "JEMBRANA",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "232",
+        "id_desa": "A8B3B93FE24E3760E0400B0A9A145271",
+        "nama_desa": "KARANG ANOM",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "233",
+        "id_desa": "A8B3B93FE23E3760E0400B0A9A145271",
+        "nama_desa": "KARYA BASUKI",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "234",
+        "id_desa": "A8B3B93FE2343760E0400B0A9A145271",
+        "nama_desa": "MARGA BATIN",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "235",
+        "id_desa": "A8B3DD42F22DF434E0400B0A9A14526D",
+        "nama_desa": "MEKAR KARYA",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "236",
+        "id_desa": "A8B3BB66A4EB4114E0400B0A9A145277",
+        "nama_desa": "NGESTI KARYA",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "237",
+        "id_desa": "A8B3B93FE20C3760E0400B0A9A145271",
+        "nama_desa": "SIDO RAHAYU",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "238",
+        "id_desa": "A8B3DD42F234F434E0400B0A9A14526D",
+        "nama_desa": "SUMBER JAYA",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "239",
+        "id_desa": "A8B3B93FE2253760E0400B0A9A145271",
+        "nama_desa": "SUMBER REJO",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "240",
+        "id_desa": "A8B3B93FE2163760E0400B0A9A145271",
+        "nama_desa": "TANJUNG WANGI",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "241",
+        "id_desa": "A8B3B93FE21E3760E0400B0A9A145271",
+        "nama_desa": "TRI TUNGGAL",
+        "id_keca": "A82D2281149B7B67E0400B0A9A147555",
+        "nama_keca": "WAWAY KARYA"
+    },
+    {
+        "id": "242",
+        "id_desa": "A83D666F5F65CE3DE0400B0A9A1467CA",
+        "nama_desa": "KALI PASIR",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "243",
+        "id_desa": "A83C9173D35A6F0FE0400B0A9A147519",
+        "nama_desa": "TAMAN NEGERI",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "244",
+        "id_desa": "A83C9ED6B2DD9177E0400B0A9A147517",
+        "nama_desa": "TAMBAH SUBUR",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "245",
+        "id_desa": "A83C9ED6B2D99177E0400B0A9A147517",
+        "nama_desa": "TANJUNG KENCONO",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "246",
+        "id_desa": "A83D666F5F63CE3DE0400B0A9A1467CA",
+        "nama_desa": "TANJUNG TIRTO",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "247",
+        "id_desa": "A83C9173D3566F0FE0400B0A9A147519",
+        "nama_desa": "TEGAL OMBO",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "248",
+        "id_desa": "A83D7C864C9D36E0E0400B0A9A14751B",
+        "nama_desa": "TOTO MULYO",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "249",
+        "id_desa": "A83C9173D3586F0FE0400B0A9A147519",
+        "nama_desa": "TOTO PROJO",
+        "id_keca": "A82D3C88F9E2DE64E0400B0A9A1404D1",
+        "nama_keca": "WAY BUNGUR"
+    },
+    {
+        "id": "250",
+        "id_desa": "A8515840E58B749BE0400B0A9A142D00",
+        "nama_desa": "BRAJA ASRI",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "251",
+        "id_desa": "A84EA490A3FFA1F6E0400B0A9A144FA0",
+        "nama_desa": "BRAJA CAKA",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "252",
+        "id_desa": "A84FC9BA41B0287AE0400B0A9A140DF3",
+        "nama_desa": "BRAJA DEWA",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "253",
+        "id_desa": "A84F5AF39BD44FE1E0400B0A9A143FD4",
+        "nama_desa": "BRAJA EMAS",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "254",
+        "id_desa": "A8515840E4B0749BE0400B0A9A142D00",
+        "nama_desa": "BRAJA FAJAR",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "255",
+        "id_desa": "A8501AAA9BD1A077E0400B0A9A1467F7",
+        "nama_desa": "BRAJA SAKTI",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "256",
+        "id_desa": "A84F84B2AC926149E0400B0A9A147E57",
+        "nama_desa": "JEPARA",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "257",
+        "id_desa": "BCBFB928FBC53FCAE0400B0A9A143629",
+        "nama_desa": "LABUHAN RATU BARU",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "258",
+        "id_desa": "A8515840E5DE749BE0400B0A9A142D00",
+        "nama_desa": "LABUHAN RATU DANAU",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "259",
+        "id_desa": "A8515847F4970671E0400B0A9A142D02",
+        "nama_desa": "LABUHAN RATU I",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "260",
+        "id_desa": "A8515847F48E0671E0400B0A9A142D02",
+        "nama_desa": "LABUHAN RATU II",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "261",
+        "id_desa": "A84FC9BA4228287AE0400B0A9A140DF3",
+        "nama_desa": "SRI REJOSARI",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "262",
+        "id_desa": "A8503FE01EFEA4A8E0400B0A9A1467F3",
+        "nama_desa": "SRIWANGI",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "263",
+        "id_desa": "A84FC9BCBEEBB7C4E0400B0A9A140DF1",
+        "nama_desa": "SUMBER MARGA",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "264",
+        "id_desa": "A84F851A9242C64DE0400B0A9A147E53",
+        "nama_desa": "SUMBEREJO",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    },
+    {
+        "id": "265",
+        "id_desa": "A8515840E595749BE0400B0A9A142D00",
+        "nama_desa": "SUMUR BANDUNG",
+        "id_keca": "A82BA29FFAB87172E0400B0A9A146731",
+        "nama_keca": "WAY JEPARA"
+    }
+]
